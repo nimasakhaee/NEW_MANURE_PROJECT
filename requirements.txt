@@ -1,5 +1,4 @@
 # Core ML
-python==3.11.*
 catboost==1.2.7
 scikit-learn==1.5.2
 numpy==1.26.4
